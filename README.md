@@ -6,7 +6,7 @@
 Here are some ideas to get you started: -->
 
 
-I am Abdulwahid, a graduate in Electrical and Computer Engineering. I used to work as an electrical engineer in a government organization, overseeing construction projects. In 2021, I delved into web development, automating the license registration system. This sparked my transition to becoming a backend developer, and I eventually took on the role of Director of Information and Communication Technology.
+I am Abdulwahid, a graduate in Electrical and Computer Engineering. I used to work as an electrical engineer in a government organization, overseeing construction projects. In 2021, I delved into web development, after automating the license registration system for organization i was working as Electrical Engineer. This sparked my transition to becoming a backend developer, and I eventually took on the role of Director of Information and Communication Technology.
 
 - 🔭 I’m Python - Django Developer.
 - 👯 I’m looking for a job as a python developer.
